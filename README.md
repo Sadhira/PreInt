@@ -4,4 +4,6 @@ Main code in VS-csharp.
 
 Interface for data transfer and processing with 4 threads.
 
-![Startup Screenshot](https://github.com/Sadhira/PreInt/blob/master/Startup.png width="100")
+//![Startup Screenshot](https://github.com/Sadhira/PreInt/blob/master/Startup.png)
+
+<img src="https://github.com/Sadhira/PreInt/blob/master/Startup.png width="100">
