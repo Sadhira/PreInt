@@ -1,0 +1,13 @@
+C:\Users\Sadhira\Dropbox\CVs\AP Sensing\preInt\preInt\preInt\bin\Debug\preInt.exe.config
+C:\Users\Sadhira\Dropbox\CVs\AP Sensing\preInt\preInt\preInt\bin\Debug\preInt.exe
+C:\Users\Sadhira\Dropbox\CVs\AP Sensing\preInt\preInt\preInt\bin\Debug\preInt.pdb
+C:\Users\Sadhira\Dropbox\CVs\AP Sensing\preInt\preInt\preInt\obj\Debug\preInt.csprojResolveAssemblyReference.cache
+C:\Users\Sadhira\Dropbox\CVs\AP Sensing\preInt\preInt\preInt\obj\Debug\MainWindow.baml
+C:\Users\Sadhira\Dropbox\CVs\AP Sensing\preInt\preInt\preInt\obj\Debug\MainWindow.g.cs
+C:\Users\Sadhira\Dropbox\CVs\AP Sensing\preInt\preInt\preInt\obj\Debug\App.g.cs
+C:\Users\Sadhira\Dropbox\CVs\AP Sensing\preInt\preInt\preInt\obj\Debug\preInt_MarkupCompile.cache
+C:\Users\Sadhira\Dropbox\CVs\AP Sensing\preInt\preInt\preInt\obj\Debug\preInt.g.resources
+C:\Users\Sadhira\Dropbox\CVs\AP Sensing\preInt\preInt\preInt\obj\Debug\preInt.Properties.Resources.resources
+C:\Users\Sadhira\Dropbox\CVs\AP Sensing\preInt\preInt\preInt\obj\Debug\preInt.csproj.GenerateResource.Cache
+C:\Users\Sadhira\Dropbox\CVs\AP Sensing\preInt\preInt\preInt\obj\Debug\preInt.exe
+C:\Users\Sadhira\Dropbox\CVs\AP Sensing\preInt\preInt\preInt\obj\Debug\preInt.pdb
